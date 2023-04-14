@@ -3,8 +3,9 @@ h1,h2{
 	margin-top:0;
 	text-align:center;
 }
-div>a{
+div>li{
 	text-decoration-line:none;
+	list-style-type:none;
 }
 body{
 	background-color:rgb(204, 204, 204);
