@@ -5,6 +5,8 @@ h1,h2{
 }
 a{
 	text-decoration-line:none;
+}
+li{
 	list-style-type:none;
 }
 body{
